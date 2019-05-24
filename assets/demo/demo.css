@@ -1,0 +1,30 @@
+.page-header:after {
+  display: none !important;
+}
+
+.page-header:before{
+  display: none !important;
+}
+
+.page-header.page-header-small {
+  min-height: 100vh;
+}
+
+.progress{
+  margin-bottom: 20px;
+}
+
+
+.pdfobject-container { 
+  height: 30rem; 
+  border: 1rem solid rgba(0,0,0,.1); 
+}
+
+.form-control {
+  background-color: white;
+  padding: 0px;
+}
+
+.input-group{
+  margin-bottom: 0px;
+}
