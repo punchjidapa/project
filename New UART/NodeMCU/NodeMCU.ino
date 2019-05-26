@@ -124,6 +124,5 @@ void loop() {
       }*/
 
   client.publish("/sensor/position", "P" + positionData);
-}
-delay(200);
+  delay(200);
 }
